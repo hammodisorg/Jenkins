@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hammodi</groupId>
-	<artifactId>hammodiz</artifactId>
+	<artifactId>hammodiz-artifact</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hammodiz</name>
 	<description>Demo project for Spring Boot</description>
